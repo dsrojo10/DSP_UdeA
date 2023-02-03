@@ -1,5 +1,6 @@
 # Repositorio de Proyectos de Procesamiento Digital de Señales (PDS)
 ![Logo de la Universidad de Antioquia](https://www.udea.edu.co/wps/wcm/connect/udea/74e213bc-f0fa-483a-b9d4-063d7df2098c/logo-udea.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_L8L8H8C0LODDC0A6SSS2AD2GO4-74e213bc-f0fa-483a-b9d4-063d7df2098c-nunE8s3)
+
 Este repositorio es mantenido por [David Santiago Rojo C.](https://github.com/dsrojo10), estudiante de Ingeniería de Telecomunicaciones en la Universidad de Antioquia.
 
 El objetivo de este repositorio es compartir los proyectos relacionados con la materia de Procesamiento Digital de Señales, que incluyen la implementación de diferentes técnicas y algoritmos para el procesamiento de señales analógicas.
