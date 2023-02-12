@@ -21,3 +21,4 @@ Si tienes alguna sugerencia o quieres colaborar en algún proyecto, no dudes en 
 ### Referencias:
 * [Libro del curso](https://books.google.com.co/books?id=CTw6GoBh-vkC&hl=es&source=gbs_book_similarbooks)
 * [Repositorio profesor](https://github.com/jjgranadat/PDS)
+* [Python Tutorial](https://github.com/kuleshov/teaching-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb)
