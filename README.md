@@ -11,8 +11,8 @@ Si tienes alguna sugerencia o quieres colaborar en algún proyecto, no dudes en 
 
 ### Proyectos incluidos:
 * [Digitalización y reconstrucción de una señal analógica.](https://github.com/dsrojo10/DSP_UdeA/blob/main/Clase1.ipynb)
-* [Título del Proyecto 2]()
-* [Título del Proyecto 3]()
+* [Añadir ruido blanco a una señal de audio](https://github.com/dsrojo10/PDS_UdeA/blob/main/Clase2_06_02.ipynb)
+* [Gráficos de las funciones exponencial y gaussiana](https://github.com/dsrojo10/PDS_UdeA/blob/main/Clase3_09_02.ipynb)
 
 ### Herramientas y Tecnologías utilizadas:
 * Lenguaje de programación: Python
