@@ -7,8 +7,6 @@ El objetivo de este repositorio es compartir los proyectos relacionados con la m
 
 Cada proyecto incluye una descripción detallada de la implementación y una guía de cómo ejecutar el código. También se incluyen los resultados obtenidos y una discusión sobre los mismos.
 
-Si tienes alguna sugerencia o quieres colaborar en algún proyecto, no dudes en abrir una issue o contactar al autor directamente.
-
 ### Proyectos incluidos:
 1. [Digitalización y reconstrucción de una señal analógica.](https://github.com/dsrojo10/DSP_UdeA/blob/main/Clase1.ipynb) (Clase #1 02/02/23)
 2. [Añadir ruido blanco a una señal de audio](https://github.com/dsrojo10/PDS_UdeA/blob/main/Clase2_06_02.ipynb) (Clase #2 06/07/23)
